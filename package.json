@@ -29,6 +29,7 @@
   "devDependencies": {
     "@wdio/browserstack-service": "^7",
     "@wdio/local-runner": "^7",
-    "@wdio/mocha-framework": "^7"
+    "@wdio/mocha-framework": "^7",
+    "global-agent": "^3.0.0"
   }
 }
